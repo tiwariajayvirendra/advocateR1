@@ -1,0 +1,12 @@
+export { Navbar } from './Navbar';
+export { HeroAdvocate } from './HeroAdvocate';
+export { PracticeAreas } from './PracticeAreas';
+export { CaseMetricsVisualizer } from './CaseMetricsVisualizer';
+export { AiLegalLab } from './AiLegalLab';
+export { ConsultationScheduler } from './ConsultationScheduler';
+export { SecureClientPortal } from './SecureClientPortal';
+export { PublishedWorks } from './PublishedWorks';
+export { AdminChambersPortal } from './AdminChambersPortal';
+export { ClientTestimonials } from './ClientTestimonials';
+export { AuthModal } from './AuthModal';
+export { Footer } from './Footer';

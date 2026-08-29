@@ -1,0 +1,6 @@
+{
+  "name": "Adv. Utkarsh Pandey | Advocate & Legal Counsel",
+  "description": "Smart, professional legal practice portal for Adv. Utkarsh Pandey showcasing landmark court judgments, case resolution metrics, consultation scheduling, published works repository, client vault, and Gemini AI legal analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
